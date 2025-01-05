@@ -35,7 +35,7 @@ export const players = [
   },
   {
     name: "OSCAR",
-    position: "Defender",
+    position: "Bencher",
     photo: player6
   },
   {
