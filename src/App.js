@@ -14,7 +14,7 @@ function App() {
       <Header
         title="Sion All Stars"
         logo={logo}
-        telegramLink="https://t.me/myfootballclub"
+        telegramLink="https://t.me/batumibreakingnews"
       />
       <main className="main-content">
         <TeamsTable teams={teams} />
