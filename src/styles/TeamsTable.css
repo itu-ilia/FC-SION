@@ -1,0 +1,31 @@
+.teams-table-container {
+  margin-top: 20px;
+}
+
+.teams-table-container h2 {
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+.teams-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.teams-table th,
+.teams-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.teams-table th {
+  background-color: #FF4500;
+  color: white;
+}
+
+.teams-table tr:hover {
+  background-color: #f8f8f8;
+} 
