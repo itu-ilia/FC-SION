@@ -11,27 +11,52 @@ export const players = [
   {
     name: "P. TEMA",
     position: "Forward",
-    photo: player1
+    photo: player1,
+    age: 21,
+    yearsInClub: 5,
+    dominantFoot: "Right",
+    playStyle: "Aggressive striker",
+    bio: "Known for his powerful shots and quick reflexes."
   },
   {
     name: "MIQE",
     position: "Goalkeeper",
-    photo: player2
+    photo: player2,
+    age: 21,
+    yearsInClub: 3,
+    dominantFoot: "Left",
+    playStyle: "Solid shot-stopper",
+    bio: "Consistently reliable in high-pressure situations."
   },
   {
     name: "LUKINHO",
     position: "Defender",
-    photo: player3
+    photo: player3,
+    age: 22,
+    yearsInClub: 5,
+    dominantFoot: "Right",
+    playStyle: "Great defender",
+    bio: "Skilled in defending and tackling"
   },
   {
     name: "IREMADZE",
     position: "Central Attacking Midfielder",
-    photo: player4
+    photo: player4,
+    age: 21,
+    yearsInClub: 5,
+    dominantFoot: "Right",
+    playStyle: "Great playmaker",
+    bio: "Known for his creative passing and vision."
   },
   {
     name: "GU TEA",
     position: "Central Attacking Midfielder",
-    photo: player5
+    photo: player5,
+    age: 21,
+    yearsInClub: 5,
+    dominantFoot: "Right",
+    playStyle: "Shooting striker",
+    bio: "Known for his double playstyle and shooting"
   },
   {
     name: "OSCAR",
