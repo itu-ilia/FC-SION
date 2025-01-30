@@ -16,7 +16,8 @@ export const players = [
     yearsInClub: 5,
     dominantFoot: "Right",
     playStyle: "Aggressive striker",
-    bio: "Known for his powerful shots and quick reflexes."
+    bio: "Known for his powerful shots and quick reflexes.",
+    monthlySalary: 15,
   },
   {
     name: "MIQE",
@@ -26,7 +27,8 @@ export const players = [
     yearsInClub: 3,
     dominantFoot: "Left",
     playStyle: "Solid shot-stopper",
-    bio: "Consistently reliable in high-pressure situations."
+    bio: "Consistently reliable in high-pressure situations.",
+    monthlySalary: 0,
   },
   {
     name: "LUKINHO",
@@ -36,7 +38,8 @@ export const players = [
     yearsInClub: 5,
     dominantFoot: "Right",
     playStyle: "Great defender",
-    bio: "Skilled in defending and tackling"
+    bio: "Skilled in defending and tackling",
+    monthlySalary: 15.15,
   },
   {
     name: "IREMADZE",
@@ -46,7 +49,8 @@ export const players = [
     yearsInClub: 5,
     dominantFoot: "Right",
     playStyle: "Great playmaker",
-    bio: "Known for his creative passing and vision."
+    bio: "Known for his creative passing and vision.",
+    monthlySalary: 5.34,
   },
   {
     name: "GU TEA",
@@ -56,21 +60,25 @@ export const players = [
     yearsInClub: 5,
     dominantFoot: "Right",
     playStyle: "Shooting striker",
-    bio: "Known for his double playstyle and shooting"
+    bio: "Known for his double playstyle and shooting",
+    monthlySalary: 0,
   },
   {
     name: "OSCAR",
     position: "Bencher",
-    photo: player6
+    photo: player6,
+    monthlySalary: 0,
   },
   {
     name: "BALOTELLI",
     position: "Bencher",
-    photo: player7
+    photo: player7,
+    monthlySalary: 0,
   },
   {
     name: "RONALDO",
     position: "Bencher",
-    photo: player8
+    photo: player8,
+    monthlySalary: 0,
   }
 ]; 

@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import TeamsTable from './components/TeamsTable';
 import PlayerCard from './components/PlayerCard';
+import SalaryTable from './components/SalaryTable';
 import Footer from './components/Footer';
 import { teams } from './data/teams';
 import { players } from './data/players';
@@ -23,6 +24,7 @@ function App() {
             <PlayerCard key={index} player={player} />
           ))}
         </div>
+        <SalaryTable players={players} />
       </main>
       <Footer />
     </div>
