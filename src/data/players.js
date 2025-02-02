@@ -28,7 +28,7 @@ export const players = [
     dominantFoot: "Left",
     playStyle: "Solid shot-stopper",
     bio: "Consistently reliable in high-pressure situations.",
-    monthlySalary: 0,
+    monthlySalary: 5,
   },
   {
     name: "LUKINHO",
